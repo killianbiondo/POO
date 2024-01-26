@@ -17,7 +17,7 @@ export default class Animal {
 
     public manger(): void {
         console.log("L'animal mange.");
-    }
+    } 
 
     public mouvement(): void {
         console.log(`${this._nom} se déplace.`);

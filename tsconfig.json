@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "script",
+    "module": "CommonJS",  // Ajoutez cette ligne
+    "target": "es5",
+    "rootDir": "./",
+    "strict": true
+  },
+  "include": [
+    "./animal.ts",
+    "./chat.ts",
+    "./chien.ts",
+    "./main.ts",
+    "./oiseau.ts",
+    "./zoo.ts"
+  ]
+}
+  

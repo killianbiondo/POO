@@ -10,8 +10,8 @@ const monChat = new Chat("Whiskers", "noir", "Chat", 7);
 const monOiseau = new Oiseau("Tweetie", "Oiseau", 2);
 const listAnimal: Animal[] = [monChat, monChien, monOiseau];
 
-monChat.manger();
 monChien.manger();
+monChat.manger();
 
 
 monChat.mouvement();

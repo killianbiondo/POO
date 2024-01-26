@@ -3,6 +3,7 @@ import Chat from './chat.js';
 import Oiseau from './oiseau.js';
 import Zoo from './zoo.js';
 import Animal from './animal.js';
+import interface from './interface.js';
 
 const zoo = new Zoo();
 const monChien = new Chien("Buddy", "Chien", 5);

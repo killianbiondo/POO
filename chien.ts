@@ -10,6 +10,6 @@ export default class Chien extends Animal {
     }
 
     public manger(): void {
-        console.log(`Le chien mange avec enthousiasme.`);
+        console.log(`Le chien mange avec envie.`);
     }
 }
